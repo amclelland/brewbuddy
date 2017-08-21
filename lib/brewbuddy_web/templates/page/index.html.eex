@@ -1,0 +1,40 @@
+<div class="site-wrapper">
+
+  <div class="site-wrapper-inner">
+
+    <div class="cover-container">
+
+      <div class="masthead clearfix">
+        <div class="inner">
+          <h3 class="masthead-brand">Brew Buddy</h3>
+          <nav class="nav nav-masthead">
+            <a class="nav-link active" href="#">Home</a>
+            <a class="nav-link" href="#">Features</a>
+            <a class="nav-link" href="#">Contact</a>
+          </nav>
+        </div>
+      </div>
+
+      <div class="inner cover">
+        <h1 class="cover-heading">
+          Get Brewing With Brew Buddy
+        </h1>
+        <p class="lead">
+          Keep track of your current brews' ingredients, dates, and set notifications.
+          Graph your temperature and gravity for the perfect brew.
+          Calculate carbonation and alcohol level with our online tools.
+          Get ready to level up!
+        </p>
+        <p class="lead">
+          <a href="#" class="btn btn-lg btn-secondary">Learn more</a>
+        </p>
+      </div>
+
+      <div class="mastfoot">
+        <div class="inner">
+          <p>Created with ❤ by <a href="http://www.allans-workshop.com/" target="_blank">Pugnacious Software</a>.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
